@@ -1,3 +1,3 @@
 #!/bin/bash
 python -m venv .
-source ./bin/activate
+source /home/ai/bin/activate
